@@ -7,3 +7,4 @@ in.applicationinsights.azure.com.albertk12.org
 ukwest-0.in.applicationinsights.azure.com.albertk12.org
 in.appcenter.ms
 ingest.appcenter.ms
+youtube.com
