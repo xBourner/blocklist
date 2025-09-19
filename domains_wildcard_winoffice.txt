@@ -1,4 +1,5 @@
 type=regex
+commerce.bing.com
 *.c-bingapis-com.dual-a-0034.a-msedge.net
 *.measure.office.com.akamaized.net
 *.in.applicationinsights.azure.com.albertk12.org
