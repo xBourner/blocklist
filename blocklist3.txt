@@ -1,0 +1,9 @@
+type=string
+c-bingapis-com.dual-a-0034.a-msedge.net
+measure.office.com.akamaized.net
+fp.measure.office.com.akamaized.net
+upload2.fp.measure.office.com.akamaized.net
+in.applicationinsights.azure.com.albertk12.org
+ukwest-0.in.applicationinsights.azure.com.albertk12.org
+in.appcenter.ms
+ingest.appcenter.ms
